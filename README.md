@@ -2,6 +2,12 @@
 
 基于 LangGraph、Gemini 与 Supabase RAG 的计算机视觉科研实验 Agent。项目设计了一个科研工作台，可统一处理论文、项目资料、模型配置、训练日志和实验指标。
 
+## 项目预览
+
+<p align="center">
+  <img src="picture.png" width="1000" alt="CV Research Agent 科研工作台">
+</p>
+
 ## 核心工作流
 
 ### 1. 论文与项目资料问答
