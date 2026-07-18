@@ -1,6 +1,6 @@
 # CV Research Workflow Agent
 
-基于 LangGraph、Gemini 与 Supabase RAG 的计算机视觉科研实验 Agent。项目从单一 PDF 问答升级为科研工作台，可统一处理论文、项目资料、模型配置、训练日志和实验指标。
+基于 LangGraph、Gemini 与 Supabase RAG 的计算机视觉科研实验 Agent。项目设计了一个科研工作台，可统一处理论文、项目资料、模型配置、训练日志和实验指标。
 
 ## 核心工作流
 
